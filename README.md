@@ -45,4 +45,11 @@ Documentation of the whole process
 - workflow Build Artifact in master erstellt
 - merge develop into master
 
+Die Square Api rechnet von einer eingegeben zahl das Quadrat und gibt diese aus
 
+Aufruf per:
+im Browser
+http://localhost:8080/api/square?a=3.0
+
+Ausgabe im Browser:
+9
